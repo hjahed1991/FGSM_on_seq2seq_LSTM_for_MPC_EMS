@@ -8,11 +8,12 @@ Key features:
 - Modular code structure for easy reproduction and extension.
 ## 📊 Dataset:
 - **Name**: [Rye Microgrid Dataset]
-- **Source**: [[URL or DOI if public](https://github.com/AneoGroup/tronderenergi-ai-hackathon-2021)]
+- **Source**: [[Rye MG Dataset](https://github.com/AneoGroup/tronderenergi-ai-hackathon-2021)]
 - **Format**: CSV
 - **Size**: 2.4 Mb
-📚 Citation
+## 📚 Citation
 If you use this repository, please cite it as follows (temporary entry until paper publication):
+
 @article{Jahed2025FGSM,
   title   = {FGSM on seq2seq LSTM for MPC EMS},
   author  = {Hamid Jahed and [Other Authors]},

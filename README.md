@@ -28,7 +28,5 @@ If you use this repository, please cite it as follows (temporary entry until pap
 ##📬 Contact
 For questions or collaborations, please contact:
 
-Hamid Jahed – hjahed1991@gmail.com
+Hamid Jahed : hjahed1991@gmail.com
               h_jahed@elec.iust.ac.ir
-
-[GitHub: hjahed1991

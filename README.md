@@ -1,7 +1,10 @@
 # FGSM_on_seq2seq_LSTM_for_MPC_EMS
 Source code and dataset for the paper "Impact of FGSM Data Poisoning Attack on Seq2Seq LSTM Energy Forecasting and MPC-Based Energy Management Costs in Microgrids under Islanded and Grid-Connected Modes"
+
 This repository contains all materials required to reproduce the experiments and analyses described in the associated research.
+
 Key features:
+
 - Sequence-to-sequence LSTM architecture for time-series forecasting.
 - FGSM adversarial attack integration for model robustness evaluation.
 - Configurable MPC control module for EMS simulations.
@@ -21,3 +24,11 @@ If you use this repository, please cite it as follows (temporary entry until pap
   year    = {2025},
   doi     = {10.5281/zenodo.xxxxxxx}
 }
+
+##📬 Contact
+For questions or collaborations, please contact:
+
+Hamid Jahed – hjahed1991@gmail.com
+              h_jahed@elec.iust.ac.ir
+
+[GitHub: hjahed1991

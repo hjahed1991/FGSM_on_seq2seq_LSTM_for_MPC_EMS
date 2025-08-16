@@ -17,16 +17,10 @@ Key features:
 ## 📚 Citation
 If you use this repository, please cite it as follows (temporary entry until paper publication):
 
-@article{Jahed2025FGSM,
-  title   = {FGSM on seq2seq LSTM for MPC EMS},
-  author  = {Hamid Jahed and [Other Authors]},
-  journal = {Applied Energy},
-  year    = {2025},
-  doi     = {10.5281/zenodo.xxxxxxx}
-}
+
 
 ##📬 Contact
 For questions or collaborations, please contact:
 
-Hamid Jahed : hjahed1991@gmail.com
+Hamid Jahed : hjahed1991@gmail.com |
               h_jahed@elec.iust.ac.ir
